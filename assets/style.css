@@ -11,11 +11,15 @@ footer {
 }
 h1 {
     text-align: center;
-    color: rgb(184, 37, 184);
+    color: rgb(255, 255, 255);
 }
 h2 {
     text-align: center;
-    color: rgb(9, 134, 9);
+    color: rgb(97, 90, 199);
+}
+h3{
+    text-align: center;
+    color: black;
 }
 img {
     display: block;
