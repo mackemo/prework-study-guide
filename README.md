@@ -1,8 +1,11 @@
-# Mackenzie's :) Prework Study Guide Webpage
+# Mackenzie's Prework Study Guide Webpage
 
 ## Description
 
 A study guide for new students learning code that they can refer to for guidance. It has notes on HTML, CSS, Git, and JavaScript. 
+
+<img src="./assets/image.png"/>
+<img src="./assets/image-1.png"/>
 
 ## Installation
 
