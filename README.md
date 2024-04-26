@@ -1,4 +1,4 @@
-# Mackenzie's :) Prework Study Guide Webpage
+# Mackenzie's Prework Study Guide Webpage
 
 ## Description
 
